@@ -19,3 +19,6 @@
 ### About the dataset
 * The example is based on a dataset that is publicly available from the UCI Machine Learning Repository (Asuncion and Newman, 2007)[http://mlearn.ics.uci.edu/MLRepository.html]. The dataset consists of several hundred human cell sample records, each of which contains the values of a set of cell characteristics. The fields in each record are:
 
+## [Project 3:Content Based Movie Recommendation System](https://github.com/imshivam24/Machine_Learning/tree/master/Content%20Based%20Movie%20Recommendation)
+
+* Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. In this notebook, we will explore Content-based recommendation systems and implement a simple version of one using Python and the Pandas library.
