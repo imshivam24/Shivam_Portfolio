@@ -1,6 +1,6 @@
 # Shivam_Portfolio
  
-## Project 1:Drug Classifier
+## [Project 1:Drug Classifier](https://github.com/imshivam24/Machine_Learning/tree/master/Drug%20Classifier)
 
 * I used decision tree classification algorithm to build a model from historical data of patients, and their response to different medications.Then you use the trained decision tree to predict the class of a unknown patient, or to find a proper drug for a new patient.
 
