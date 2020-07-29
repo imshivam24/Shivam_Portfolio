@@ -22,3 +22,10 @@
 ## [Project 3:Content Based Movie Recommendation System](https://github.com/imshivam24/Machine_Learning/tree/master/Content%20Based%20Movie%20Recommendation)
 
 * Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. In this notebook, we will explore Content-based recommendation systems and implement a simple version of one using Python and the Pandas library.
+
+## [Project 4:Digit Recognizer by Random Forest](https://github.com/imshivam24/Machine_Learning/tree/master/MNIST%20Data%20Classifier%20by%20Random%20Forest)
+
+### About the dataset
+* MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+
+In this notebook, i tried to correctly identify digits from a dataset of tens of thousands of handwritten images with score of 0.94 in kaggle .
