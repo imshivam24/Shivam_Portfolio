@@ -10,7 +10,7 @@
 * Imagine that you are a medical researcher compiling data for a study. You have collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug c, Drug x and y.
 
 
-## Project 2: Cancer Detection
+## [Project 2: Cancer Detection](https://github.com/imshivam24/Machine_Learning/tree/master/Cancer%20Detection)
 
 * In this notebook, i used SVM (Support Vector Machines) to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.
 
