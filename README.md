@@ -1,6 +1,6 @@
 # Shivam_Portfolio
  
-## [Project 1:Predicting Water Permeability Constant]()
+## [Project 1:Predicting Water Permeability Constant](https://github.com/imshivam24/predicting-water-permeability-constant)
 Applied neural network model with tensorflow on the dataset by research paper titled “Neural network based correlation for estimating water permeability constant in RO desalination process under fouling” with R2 score of 0.96 
 & deployed at Heroku
 
